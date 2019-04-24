@@ -1,7 +1,6 @@
 # object-detection
 
-## cascade_photo_detection.ipynb
-## cascade_video_detection.ipynb
+## cascade_photo_detection.ipynb & cascade_video_detection.ipynb
 
 You need to find proper haarcascades in order to use this code.
 
