@@ -2,7 +2,7 @@
 
 ## cascade_photo_detection.ipynb & cascade_video_detection.ipynb
 
-You need to find proper haarcascades in order to use this code.
+You need to find proper haarcascades in order to use this code. I have added some of them to the required_files folder.
 
 ## yolo_photo_detection.ipynb
 
